@@ -1,6 +1,8 @@
 package org.example.beens;
 
+import org.springframework.stereotype.Component;
 
+@Component
 public class Bean1 {
     private String name;
     private String jodTitle;
