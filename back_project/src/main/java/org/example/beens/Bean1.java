@@ -1,10 +1,7 @@
 package org.example.beens;
 
 
-import org.example.config.Bean1Config;
-import org.springframework.context.annotation.Bean;
-
-public class Been1 {
+public class Bean1 {
     private String name;
     private String jodTitle;
     private int age;
